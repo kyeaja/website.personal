@@ -1,0 +1,26 @@
+body{
+    background: url(backgroun\ 1.png);
+ }
+ .gambar-satu{
+       width: 35%;
+       height: 35%;
+       display: block;
+       margin-left: auto;
+       margin-right: auto;
+
+ }
+
+.gambar-dua{
+       width: 20%;
+       height: 30%;
+       display: block;
+       margin-left: auto;
+       margin-right: auto;
+
+}
+
+
+
+h3{
+       text-align: center;
+}

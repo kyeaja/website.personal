@@ -1,0 +1,61 @@
+*, 
+html{
+   margin: 0;
+   padding: 0;
+}
+
+body{
+    background: url(backgroun\ 1.png);
+ }
+
+ .dasar{
+    background-color: chocolate;
+    width: 100%;
+    height: 80px;
+ }
+
+ .ul-dasar{
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+
+ .li-dasar{
+    list-style-type: none;
+    padding: 10px;
+    margin: 5px;
+    color: rgb(243, 234, 234);
+    font-size: 30px
+ }
+
+ 
+ .kaki{
+   background-color: chocolate;
+   width: 100%;
+   height: 50px;
+   text-align: center;
+   
+   
+ }
+
+h1{
+   text-align: center;
+   height: 3%;
+   color: black;
+}
+
+.gambar{
+   width: 35%;
+   height: 35%;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+
+}
+
+div{
+   text-decoration-line: none;
+}
+
+
